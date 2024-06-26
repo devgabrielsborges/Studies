@@ -1,8 +1,10 @@
 # Python Studies
 
-Bem-vindo ao repositório de estudos em Python! Este projeto tem como objetivo ajudar iniciantes a aprender e praticar Python por meio de exemplos práticos e tutoriais.
+Bem-vindo ao meu repositório de estudos em Python! Fiz esse repositório com o objetivo de fazer a gestão de conhecimento dos aspectos da linguagem a aprender e praticar Python por meio de exemplos práticos e tutoriais.
 
 Python é uma linguagem de programação versátil e amplamente utilizada, ideal tanto para iniciantes quanto para desenvolvedores experientes. Este repositório oferece uma variedade de recursos para você começar sua jornada de aprendizado.
+
+Caso tenha alguma sugestão de atualização ou de algum erro presente, por favor abra uma issue ou clone o repositório e, após suas alterações, abra um pull request
 
 ## Pré-requisitos
 
@@ -19,9 +21,11 @@ Conhecimentos básicos recomendados:
 
 - Conceitos básicos de programação orientada a objetos.
 
+- Conceitos básicos de git
+
 ## Instalação e Configuração
 
-Para clonar o repositório, siga os passos abaixo:
+Para clonar o repositório, siga os passos abaixo(necessário ter o git instalado):
 
 1. Abra seu terminal.
 2. Clone o repositório:
