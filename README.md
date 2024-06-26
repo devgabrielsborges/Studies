@@ -11,6 +11,7 @@ Caso tenha alguma sugestão de atualização ou de algum erro presente, por favo
 Antes de começar, certifique-se de ter os seguintes softwares instalados em seu computador:
 
 - [Python](https://www.python.org/downloads/): Certifique-se de baixar a versão mais recente.
+- [Git](https://git-scm.com/downloads): Recomendo baixar também, mas você pode acessar o conteúdo do repositório pelo browser mesmo.
 - IDEs recomendadas:
   - [PyCharm](https://www.jetbrains.com/pycharm/)
   - [VS Code](https://code.visualstudio.com/)
